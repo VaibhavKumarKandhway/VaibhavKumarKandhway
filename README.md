@@ -1,59 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+Agentic+AI+%26+RAG+Pipelines;Full+Stack+%2B+Cloud+Native+(K8s);Welcome+to+my+digital+HQ" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <br />
-  <h3>⚡ Engineering Intelligence into Infrastructure</h3>
-  <p>I bridge the gap between <b>Complex Distributed Systems</b> and <b>Generative AI</b>.</p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact-Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=70&lines=ARCHITECTING+THE+MATRIX;PIXEL+PERFECTIONIST;DIGITAL+REALITY+ENGINEER;VAIBHAV+KUMAR+KANDHWAY" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://github.com/VaibhavK289">
+      <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00f2ff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
+    </a>
+    <a href="https://linkedin.com/in/vaibhav-kandhway">
+      <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-LINKEDIN-00f2ff?style=for-the-badge&logo=linkedin&logoColor=00f2ff&labelColor=0d1117" />
+    </a>
+  </p>
 </div>
 
 <br />
 
-<h3 align="left">🛠️ The Arsenal</h3>
+### <img src="https://media.giphy.com/media/VhDsKeBIYbXyxVsOUI/giphy.gif" width="30">  // MISSION_STATEMENT
+> *"I don't just write code; I orchestrate seamless digital experiences. With a fusion of artistic intuition and algorithmic precision, I build software that defines the future."*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=langchain&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-<br />
-
-<h3 align="left">📊 Engineering Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" height="180" alt="VaibhavK289 Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9" height="180" alt="VaibhavK289 Top Langs" />
+  ### ⚡ TECHNOLOGICAL ARSENAL ⚡
+  
+  <table>
+    <tr>
+      <td align="center" width="900">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma&perline=5&theme=dark" />
+        <br>
+        <b>// FRONTEND_INTERFACE</b>
+      </td>
+      <td align="center" width="900">
+        <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,mongodb,redis&perline=6&theme=dark" />
+        <br>
+        <b>// BACKEND_CORE</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,linux,bash&perline=15&theme=dark" />
+        <br>
+        <b>// DEPLOYMENT_PROTOCOLS</b>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 SYSTEM METRICS</h3>
+  
+  <a href="https://github.com/VaibhavK289">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/VaibhavK289">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavK289&theme=transparent&background=0d1117&border=0d1117&stroke=00f2ff&ring=00f2ff&fire=00f2ff&currStreakNum=ffffff&currStreakLabel=00f2ff&sideNums=ffffff&sideLabels=00f2ff&dates=ffffff&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavK289&theme=dark&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true" height="140" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaibhavK289&style=flat-square&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavK289&repo=VaibhavK289&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true&description_lines_count=2" />
+</div>
+
+---
+
+<div align="center">
+  <pre>
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║  SYSTEM_LOG:                                                       ║
+   ║  > OPTIMIZING NEURAL PATHWAYS... [COMPLETE]                        ║
+   ║  > DEPLOYING ARTISTIC ALGORITHMS... [SUCCESS]                      ║
+   ║  > "Simplicity is the ultimate sophistication." - Da Vinci         ║
+   ╚════════════════════════════════════════════════════════════════════╝
+  </pre>
+  
+  <a href="https://linkedin.com/in/vaibhav-kandhway">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=00f2ff&labelColor=0d1117" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Send-Transmission-D14836?style=flat&logo=gmail&logoColor=white&color=00f2ff&labelColor=0d1117" />
+  </a>
 </div>
