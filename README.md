@@ -53,22 +53,22 @@
   <h3>📊 SYSTEM METRICS</h3>
   
   <a href="https://github.com/VaibhavK289">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true" alt="Vaibhav's GitHub Stats" />
   </a>
   
   <a href="https://github.com/VaibhavK289">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavK289&theme=transparent&background=0d1117&border=0d1117&stroke=00f2ff&ring=00f2ff&fire=00f2ff&currStreakNum=ffffff&currStreakLabel=00f2ff&sideNums=ffffff&sideLabels=00f2ff&dates=ffffff&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=VaibhavK289&theme=dark&background=0d1117&border=0d1117&stroke=00f2ff&ring=00f2ff&fire=00f2ff&currStreakNum=ffffff&currStreakLabel=00f2ff&sideNums=ffffff&sideLabels=00f2ff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavK289&repo=VaibhavK289&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavK289&repo=VaibhavK289&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Pinned Repo" />
 </div>
 
 ---
