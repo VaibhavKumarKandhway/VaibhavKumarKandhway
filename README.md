@@ -1,142 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B+I'm+Vaibhav+Kumar+Kandhway;Building+Production-Ready+Web+Apps;Full-Stack+Developer+%7C+Next.js+%26+Node.js;Turning+Ideas+into+Deployed+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+Agentic+AI+%26+RAG+Pipelines;Full+Stack+%2B+Cloud+Native+(K8s);Welcome+to+my+digital+HQ" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VaibhavK289&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br />
+  <h3>⚡ Engineering Intelligence into Infrastructure</h3>
+  <p>I bridge the gap between <b>Complex Distributed Systems</b> and <b>Generative AI</b>.</p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Contact-Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </div>
 
 <br />
 
+<h3 align="left">🛠️ The Arsenal</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=langchain&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<br />
+
+<h3 align="left">📊 Engineering Metrics</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" alt="3D coding animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" height="180" alt="VaibhavK289 Stats" />
   
-  <h3 align="left">👨‍💻 About Me</h3>
-  <p align="left">
-    I am a <strong>Final-year Computer Science student</strong> at <strong>VIT</strong> and an aspiring <strong>Full-Stack Developer</strong>. <br/>
-    I don't just build tutorials — <strong>I ship products</strong>. My passion lies in creating modern, performant web applications using the MERN stack and Next.js. I love solving real-world problems through code, from AI medical diagnosis systems to production-grade SaaS platforms.
-  </p>
-  
-  <p align="left">
-    🔭 <strong>Currently working on:</strong> Scaling full-stack apps & exploring AI agents.<br/>
-    🌱 <strong>Learning:</strong> Advanced System Design, Docker, and Cloud Native Tech.<br/>
-    ⚡ <strong>Fun fact:</strong> I have a keen eye for UI/UX design and love 3D web interactions!
-  </p>
-  
-  <br/>
-  
-  <a href="https://vaibhavk-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:vaibhav.kumar.kandhway@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VaibhavK289/resume/raw/main/resume.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-2F80ED?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9" height="180" alt="VaibhavK289 Top Langs" />
 </div>
 
-<br />
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
 <div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java&theme=dark" />
-    </a>
-    <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,redux,graphql&theme=dark" />
-    </a>
-    <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,prisma,git,docker,aws,vercel&theme=dark" />
-    </a>
-  </p>
-</div>
-
-<br />
-
-<h3 align="center">🚀 Featured Projects</h3>
-<table align="center">
-  <tr>
-    <td width="300">
-      <h3 align="center">🏥 CuraSense</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/AI-Medical_Diagnosis-blue?style=flat-square" />
-      </div>
-      <p align="center">
-        An AI-powered medical diagnosis system leveraging multi-agent workflows, RAG, and vision analysis.
-      </p>
-      <div align="center">
-        <code>Python</code> <code>FastAPI</code> <code>CrewAI</code>
-      </div>
-      <div align="center">
-        <a href="https://github.com/VaibhavK289/curasense-diagnosis"><strong>Explore Repo »</strong></a>
-      </div>
-    </td>
-    <td width="300">
-      <h3 align="center">✅ Task Management</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Productivity-SaaS-orange?style=flat-square" />
-      </div>
-      <p align="center">
-        Collaborative task management tool with real-time updates, team workspaces, and integrations.
-      </p>
-      <div align="center">
-        <code>React</code> <code>TypeScript</code> <code>Firebase</code>
-      </div>
-      <div align="center">
-        <a href="#"><strong>Explore Repo »</strong></a>
-      </div>
-    </td>
-    <td width="300">
-      <h3 align="center">🤖 AI Content Gen</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Generative-AI-purple?style=flat-square" />
-      </div>
-      <p align="center">
-        SaaS platform leveraging AI to generate marketing copy, blog posts, and social media content.
-      </p>
-      <div align="center">
-        <code>Next.js</code> <code>OpenAI</code> <code>Prisma</code>
-      </div>
-      <div align="center">
-        <a href="#"><strong>Explore Repo »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <a href="https://github.com/VaibhavK289">
-    <img src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Vaibhav's Stats" height="160" />
-  </a>
-  <a href="https://github.com/VaibhavK289">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="160" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavK289&theme=dark&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>🤝 Connect with me</h3>
-  <a href="https://linkedin.com/in/vaibhav-kumar-kandhway" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-</div>
-<br />
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=VaibhavK289&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=VaibhavK289&style=flat-square&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
